@@ -15,7 +15,7 @@ import (
 )
 
 const (
-	secretKey = "XhjA+5B11wfvm24dVSPsh8MebKG2uEVOhJ23OMw7/LtqMURL+geISw=="
+	secretKey = "<replace here>"
 )
 
 type repo struct {
